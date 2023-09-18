@@ -6,3 +6,5 @@
 * Accept Incommig Change
 
 * Assept Both Changes
+
+![conflikt1.png](conflikt1.png)
