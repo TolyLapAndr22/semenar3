@@ -41,3 +41,13 @@ https://git-scm.com/downloads
 * log --graph - визуализировать все имеющиеся ветки, коммиты
 
 ![GITBranch](GITBranch.jpg)
+# обработка конфликта
+выбрать один из пуктов в вверхнем меню открывшегося окна
+
+* Accept Current Change
+
+* Accept Incommig Change
+
+* Assept Both Changes
+
+![conflikt1.png](conflikt1.png)
