@@ -51,3 +51,19 @@ https://git-scm.com/downloads
 * Assept Both Changes
 
 ![conflikt1.png](conflikt1.png)
+
+# работа с GitHub
+
+* git remote add origin <адрес репозитория>
+привязка удаленноого репозитория к локальному
+
+* git clone
+создаем копию удаленного репозитория
+
+* git push 
+копирование с локального на удаленный репозиторий
+
+* git pull 
+копирование c удаленного репозитория в локальный
+ 
+ ![GIThub.jpg](GIThub.jpg)
